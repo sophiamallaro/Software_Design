@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Animal</OriginalElement>
+  <nodes>
+    <node x="464.0" y="262.0">Dolphin</node>
+    <node x="928.0" y="262.0">Bear</node>
+    <node x="614.4927536231885" y="562.5797101449276">FeedingSchedules</node>
+    <node x="696.0" y="262.0">Lion</node>
+    <node x="1160.0" y="262.0">Beaver</node>
+    <node x="907.1324957793416" y="403.11638053892864">GUI</node>
+    <node x="-6.163081847881017" y="408.898177991186">Food</node>
+    <node x="114.49275362318832" y="11.72463768115972">FeedAnimal</node>
+    <node x="232.0" y="262.0">Snake</node>
+    <node x="295.3913043478261" y="411.449275362319">GroceryList</node>
+    <node x="631.9420289855072" y="402.28985507246375">Feeding</node>
+    <node x="285.463768115942" y="9.434782608695969">ZooFeederTest</node>
+    <node x="516.5" y="0.0">Animal</node>
+    <node x="0.0" y="262.0">Elephant</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Beaver" target="Animal">
+      <point x="0.0" y="-65.0" />
+      <point x="1266.0" y="222.0" />
+      <point x="827.25" y="222.0" />
+      <point x="141.25" y="101.0" />
+    </edge>
+    <edge source="Lion" target="Animal">
+      <point x="0.0" y="-65.0" />
+      <point x="802.0" y="242.0" />
+      <point x="714.25" y="242.0" />
+      <point x="28.25" y="101.0" />
+    </edge>
+    <edge source="Dolphin" target="Animal">
+      <point x="0.0" y="-65.0" />
+      <point x="570.0" y="242.0" />
+      <point x="657.75" y="242.0" />
+      <point x="-28.25" y="101.0" />
+    </edge>
+    <edge source="Bear" target="Animal">
+      <point x="0.0" y="-65.0" />
+      <point x="1034.0" y="232.0" />
+      <point x="770.75" y="232.0" />
+      <point x="84.75" y="101.0" />
+    </edge>
+    <edge source="Snake" target="Animal">
+      <point x="0.0" y="-65.0" />
+      <point x="338.0" y="232.0" />
+      <point x="601.25" y="232.0" />
+      <point x="-84.75" y="101.0" />
+    </edge>
+    <edge source="Elephant" target="Animal">
+      <point x="0.0" y="-65.0" />
+      <point x="106.0" y="222.0" />
+      <point x="544.75" y="222.0" />
+      <point x="-141.25" y="101.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6367088607594937" x="699.8270377733597" y="434.86083499005963" />
+  <SelectedNodes>
+    <node>Food</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
